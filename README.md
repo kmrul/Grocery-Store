@@ -1,11 +1,8 @@
-### Grocery-Store
+# Grocery-Store
 
 ## Django Apps:
 - [x] Category
-- [ ] Product
-
-[x] Customer
-
-[ ] Order
-
-[ ] Payment
+- [x] Product
+- [x] Customer
+- [ ] Order
+- [ ] Payment
