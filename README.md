@@ -1,7 +1,7 @@
 ### Grocery-Store
 
-Django Apps:
-[ x ] Category
+## Django Apps:
+- [x] Category
 
 [x] Product
 
