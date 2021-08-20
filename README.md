@@ -1,7 +1,7 @@
-# Grocery-Store
+### Grocery-Store
 
 Django Apps:
-[x] Category
+[ x ] Category
 
 [x] Product
 
