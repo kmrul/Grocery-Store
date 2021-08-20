@@ -2,8 +2,7 @@
 
 ## Django Apps:
 - [x] Category
-
-[x] Product
+- [ ] Product
 
 [x] Customer
 
